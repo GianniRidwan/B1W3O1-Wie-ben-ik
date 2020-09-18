@@ -13,7 +13,7 @@ h2 {
 }
 
 img {
-	float: center;
+	float: none;
 	width: 150px;
 	border-radius: 25%;
 	margin-top: 50px;
